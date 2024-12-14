@@ -1,0 +1,16 @@
+n # Is travel-time tables
+1 # number of depth samples
+    0.00
+10 # number of distance samples
+    0.00    0.10    0.50    1.00    5.00   10.00   15.00   20.00   25.00   30.00
+# Travel-time/amplitude for z =     0.00
+       0.000
+      32.704
+     163.522
+     327.044
+    1635.220
+    3270.439
+    4905.659
+    6540.878
+    8176.098
+    9811.317
